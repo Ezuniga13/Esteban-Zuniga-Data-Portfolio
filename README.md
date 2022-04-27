@@ -16,3 +16,4 @@ Data Science Portfolio
 - Selected features from fields such as debt-to-income ratio, income, credit score, home ownership, years of employment.
 - Modeled the default risk by comparing 3 supervised classification models. (Logistic, Random Forest, Decision Tree)
 - I was able to predict a default applicant depending on risk tolerance of the lender.
+![Main Page!](/images/roc_curve/1.png)
