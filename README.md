@@ -1,2 +1,2 @@
-# Esteban-Zuniga-Data-Portfolio-
+# Esteban-Zuniga-Data-Portfolio
 Data Science Portfolio
