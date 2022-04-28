@@ -7,6 +7,7 @@ Data Science Portfolio
 - I scraped over 1000's of stats from the website [Sports-Reference](https://www.sports-reference.com) using Python, Selenium and Beautiful Soup. 
 - Engineered features from coefficients using statsmodel and Python.
 - Optimized Linear, Ridge, Lasso regression using Stochastic Gradient Descent.
+![Main Page!](/images/hr_scatter.png)
 
 # [Project 2 Loan Default Predictor ](https://github.com/Ezuniga13/loan-classification)
 
