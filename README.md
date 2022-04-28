@@ -27,3 +27,13 @@ Data Science Portfolio
 - Converted Time-Domain and Frequency-Domain graphs into Spectrograms using a Fast-Fourier Transformation algorithm.
 - Rebuilt the Neural Network using a pre-trained VGG-16 model as a base to improve accuracy to over 90%.
 ![Main Page!](/images/cat_7.png)
+
+# [Project 4 Yelp Data Engineering  ](https://github.com/Ezuniga13/Yelp-Data-Engineeering)
+
+- Built a fully automated data pipeline to create a 3D interactive dashboard and curated a dataframe of the best eats in NYC.
+- Made Yelp API calls every 24 hours from the Business Search Endpoint and then pushed data to an AWS RDS posgres db.
+- Pulled data every 24 hours from AWS database and filtered out poor performing busineesses and converted the Dataframe into a CSV file and pushed to a S3 bucket.
+- Pulled data from the cloud(s3 bucket) and viszualized the data using pydeck.
+-  Built web page using Streamlit.
+-  Deployed app by running multiple containers using Docker.
+-  ![Main Page!](/images/simple_map.png)
