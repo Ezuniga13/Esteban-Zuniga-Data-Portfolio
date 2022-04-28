@@ -20,7 +20,7 @@ Data Science Portfolio
 ![Main Page!](/images/roc_curve.png)
 
 # [Project 3 Deep Learning Sound Classification ](https://github.com/Ezuniga13/AI-sound-classification-deep-learning)
-[My Article that was an Editors Pick on Data Science Weekly](https://selectfrom.dev/spectrograms-or-how-i-learned-to-stop-worrying-and-love-audio-signal-processing-for-machine-d28c022ca5ca)
+[Editor's Pick on Data Science Weekly issue Nov. 04, 2021](https://selectfrom.dev/spectrograms-or-how-i-learned-to-stop-worrying-and-love-audio-signal-processing-for-machine-d28c022ca5ca)
 
 - Built Convolutional Neural Network from scratch to classify whether a sound was from a cat or a dog.
 - Acquired wave files of dogs and cats from Kagge.
