@@ -1,4 +1,4 @@
-# Esteban-Zuniga-Data-Portfolio
+# Esteban Zuniga Data Portfolio 
 Data Science Portfolio
 
 # [Project 1 Yankee Home Run Estimator: Project Overview](https://github.com/Ezuniga13/Home-Run-regression)
