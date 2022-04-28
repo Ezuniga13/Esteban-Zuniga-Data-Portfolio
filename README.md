@@ -26,4 +26,4 @@ Data Science Portfolio
 - Viszualized Time-Domain representation of the signal by using Librosa.
 - Converted Time-Domain and Frequency-Domain graphs into Spectrograms using a Fast-Fourier Transformation algorithm.
 - Rebuilt the Neural Network using a pre-trained VGG-16 model as a base to improve accuracy to over 90%.
-![Main Page!](/images/3.png)
+![Main Page!](/images/cat_7.png)
